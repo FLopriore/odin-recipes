@@ -1,0 +1,29 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+}
+
+#smash-burger {
+    color: aqua;
+}
+
+#chipotle-chicken {
+    color: greenyellow;
+}
+
+#lasagna {
+    color: dodgerblue;
+}
+
+.subtitles {
+    color: red;
+}
+
+.recipe-link {
+    background-color: whitesmoke;
+}
