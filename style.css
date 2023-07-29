@@ -24,6 +24,21 @@ h1 {
     color: red;
 }
 
+.description .subtitles {
+    color: greenyellow;
+}
+
+.description {
+    background-color: #353535;
+}
+
+#homepage {
+    color: black;
+    background-color: lightcyan;
+}
+
 .recipe-link {
-    background-color: whitesmoke;
+    text-align: center;
+    list-style-type: none;
+    font-size: large;
 }
